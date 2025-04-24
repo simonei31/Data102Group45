@@ -1,0 +1,23 @@
+Invasive Cancer Incidence Rates by County in California
+"All Sites, NH Black, 2017"
+County,Population at Risk,Cases,Crude Rate,Age-adjusted Rate,95% Confidence Interval-Lower Limit,95% Confidence Interval-Upper Limit
+San Francisco,49145,329,669.45,525.00,468.21,587.29
+Solano,68455,351,512.75,458.51,409.79,511.56
+Sacramento,170998,698,408.19,451.11,416.98,487.23
+Fresno,50286,199,395.74,441.39,380.06,509.61
+Contra Costa,110353,491,444.94,428.71,390.30,469.90
+Kern,50615,173,341.80,413.99,351.41,484.15
+San Joaquin,58434,227,388.47,405.22,351.13,465.17
+San Mateo,21172,112,529.00,403.01,330.75,487.58
+San Bernardino,189458,725,382.67,400.02,370.30,431.47
+Los Angeles,854485,3947,461.92,395.71,383.18,408.57
+Alameda,188709,865,458.38,393.62,367.03,421.68
+Santa Clara,52357,194,370.53,387.43,332.52,448.74
+San Diego,178571,593,332.08,381.40,349.89,414.90
+Riverside,162320,611,376.42,369.61,339.85,401.28
+Orange,61147,211,345.07,368.35,316.88,425.64
+STATE,2441709,10312,422.33,401.48, 393.55,409.53
+
+"Note: All rates are per 100,000. Rates are age-adjusted to the 2000 U.S. Standard Population."
+"Rates generated on Apr 21, 2025."
+"Based on Dec 2019 data. Excludes cases reported by the Department of Veterans Affairs."
